@@ -3,3 +3,4 @@ Pizza:
 - deeg
 - salami
 - Tomatensaus
+- ham
